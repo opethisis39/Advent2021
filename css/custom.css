@@ -1,0 +1,25 @@
+body{
+    font-size: medium;
+}
+
+h1{
+    font-family: 'Shippori Mincho B1', serif;
+    text-align: center;
+    color: azure;
+    background-color: #A9C9FF;
+    background-image: linear-gradient(180deg, #5591f8 0%, #FAACA8 100%);
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+    line-height: 0%;
+    margin-bottom: 0%;
+}
+
+h4{
+    font-family: 'Shippori Mincho B1', serif;
+    text-align: center;
+    background-color: #FAACA8;
+    background-image: linear-gradient(178deg, #FAACA8 0%, #DDD6F3 100%);
+    margin-top: 0%;
+}
